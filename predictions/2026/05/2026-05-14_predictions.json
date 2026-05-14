@@ -2,9 +2,9 @@
   "prediction_date": "2026-05-14",
   "config": "BB_Full",
   "data_hashes": {
-    "usgs": "643524022e32d77a",
+    "usgs": "8613ba06d41d21e2",
     "jma": "fe77395d82a36ead",
-    "gps": "c1b1c03354dd4304"
+    "gps": "caa96e2495f10a9b"
   },
   "zones": [
     {
@@ -95,7 +95,7 @@
           }
         },
         "T2": {
-          "probability": 0.246922,
+          "probability": 0.246921,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -110,7 +110,7 @@
           }
         },
         "T3": {
-          "probability": 0.360866,
+          "probability": 0.360865,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -125,7 +125,7 @@
           }
         },
         "T4": {
-          "probability": 0.385273,
+          "probability": 0.385272,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -192,7 +192,7 @@
           }
         },
         "T4": {
-          "probability": 0.131305,
+          "probability": 0.131304,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -311,7 +311,7 @@
           }
         },
         "T3": {
-          "probability": 0.179004,
+          "probability": 0.179003,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -698,7 +698,7 @@
           }
         },
         "T2": {
-          "probability": 0.314667,
+          "probability": 0.314666,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -728,7 +728,7 @@
           }
         },
         "T4": {
-          "probability": 0.149342,
+          "probability": 0.149341,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -780,7 +780,7 @@
           }
         },
         "T3": {
-          "probability": 0.03508,
+          "probability": 0.035079,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1264,7 +1264,7 @@
           }
         },
         "T4": {
-          "probability": 0.078659,
+          "probability": 0.078658,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1502,7 +1502,7 @@
           }
         },
         "T2": {
-          "probability": 0.16443,
+          "probability": 0.164429,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1554,7 +1554,7 @@
       "pop_millions": 0,
       "tiers": {
         "T1": {
-          "probability": 0.251468,
+          "probability": 0.251467,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1584,7 +1584,7 @@
           }
         },
         "T3": {
-          "probability": 0.322722,
+          "probability": 0.322721,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1599,7 +1599,7 @@
           }
         },
         "T4": {
-          "probability": 0.196881,
+          "probability": 0.19688,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1934,7 +1934,7 @@
           }
         },
         "T4": {
-          "probability": 0.268126,
+          "probability": 0.268125,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
